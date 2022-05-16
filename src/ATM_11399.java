@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ATM {
+public class ATM_11399 {
 
     public static void main (String[]args){
 
