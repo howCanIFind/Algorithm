@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class blackjack {
+public class Blackjack_2798 {
 
     public static int search(int numberOfCards, int max, int[] cardsArr) {
         int result = 0;
