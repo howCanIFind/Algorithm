@@ -24,6 +24,6 @@ public class 평행 {
         int differenceY1 = Math.abs(dots1[1] - dots2[1]);
         int differenceY2 = Math.abs(dots3[1] - dots4[1]);
 
-
+        // 두 선의 차 구하기
     }
 }
