@@ -34,6 +34,20 @@ public class 옹알이 {
         return answer;
     }
 
-    // contaions로 풀기
+    // 다른사람풀이
+    public int solution_def(String[] babbling) {
+        int answer = 0;
+        for (String s : babbling) {
+            if (s.contains("ayaaya") || s.contains("yeye") || s.contains("woowoo") || s.contains("mama")) {
+                continue;
+            }
+            String result = s.replaceAll("aya", "").replaceAll("ye", "").replaceAll("woo", "").replaceAll("ma", "");
+
+            if (result.length() == 0) {
+                answer ++;
+            }
+        }
+        return answer;
+    }
 
 }
