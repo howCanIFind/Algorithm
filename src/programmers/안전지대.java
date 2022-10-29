@@ -17,7 +17,6 @@ public class 안전지대 {
         int row = board[0].length;
 
         // row)지뢰 위치가 0보다 크고 길이보다 작을 경우
-        if ()
         // column)지뢰 위치가 0보다 크고 길이보다 작을 경우
 
 
