@@ -24,14 +24,3 @@ public class 문자_찾기 {
     }
 }
 
-
-//    public static void solution(String str, char t) {
-//        int answer=0;
-//    }
-//
-//    public static void main (String[]args){
-//
-//        Scanner sc = new Scanner(System.in);
-//        String str = sc.next();
-//
-//    }
