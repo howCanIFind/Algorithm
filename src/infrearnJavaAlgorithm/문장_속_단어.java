@@ -18,6 +18,7 @@ public class 문장_속_단어 {
         return answer;
     }
 
+    // indexOf, substring 활용
     public static String solution2(String str) {
         String answer = "";
         int m = Integer.MIN_VALUE, pos;
