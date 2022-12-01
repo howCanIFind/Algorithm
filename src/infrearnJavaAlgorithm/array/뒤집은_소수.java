@@ -11,7 +11,7 @@ public class 뒤집은_소수 {
         }
         return true;
     }
-    
+
     public static ArrayList<Integer> solution(int n, int[] arr) {
         ArrayList<Integer> answer = new ArrayList<>();
 
