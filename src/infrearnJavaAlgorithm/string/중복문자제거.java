@@ -1,4 +1,4 @@
-package infrearnJavaAlgorithm;
+package infrearnJavaAlgorithm.string;
 
 import java.util.Scanner;
 
