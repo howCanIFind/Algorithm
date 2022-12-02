@@ -35,5 +35,6 @@ public class 봉우리 {
                 arr[i][j] = sc.nextInt();
             }
         }
+        System.out.println(solution(n, arr));
     }
 }
