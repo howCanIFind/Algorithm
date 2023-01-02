@@ -26,7 +26,7 @@ public class 미로탐색_DFS {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         board = new int[8][8];
-        for (int i=0; i<=7; i++) {
+        for (int i=1; i<=7; i++) {
             for (int j=1; j<=7; j++) {
                 board[i][j] = sc.nextInt();
             }
