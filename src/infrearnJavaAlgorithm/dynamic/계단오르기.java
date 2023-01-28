@@ -15,5 +15,6 @@ public class 계단오르기 {
         int n = sc.nextInt();
         dy = new int[n+1];
         System.out.println(solution(n));
+
     }
 }
